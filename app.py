@@ -11,7 +11,7 @@ if uploaded_file is not None:
     data = bytes_data.decode("utf-8")
     df = preprocessor.preprocess(data)
     user_list = df['user'].unique().tolist()
-    user_list.remove('group_notification')
+    #user_list.remove('group_notification')
     user_list.sort()
     user_list.insert(0,"Overall")
 

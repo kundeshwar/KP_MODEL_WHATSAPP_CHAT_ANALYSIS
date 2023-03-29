@@ -1,6 +1,6 @@
 pandas==1.5.3
 regex
-python==3.10
+python
 emoji==1.6.3
 urlextract==1.8.0
 wordcloud==1.8.2.2

@@ -240,7 +240,6 @@ tensorboardX==2.6
 tensorflow==2.9.3
 tensorflow-estimator==2.9.0
 tensorflow-hub==0.13.0
-tensorflow-intel==2.11.0
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow-model-optimization==0.7.3
 tensorflow-text==2.9.0
